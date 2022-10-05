@@ -3,7 +3,7 @@
 ※ Author :- Gautam Khatter
 ※ Date   :- 5 October 2022
 ※ Question 1 :- Binary Search
-※ Link:- https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1?page=1&category[]=Divide%20and%20Conquer&sortBy=submissions
+※ Link:- https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1?page=1
 */
 
 #include <iostream>
