@@ -7,8 +7,8 @@
     <th colspan=2>Topic :- Arrays</th>
   </tr>
   <tr>
-    <th>Question No.</th>
-    <th>Question Name</th>
+    <th align="center">SNo.</th>
+    <th align="center">Question Name</th>
   </tr>
   <tr>
     <td align="center">1</td>
